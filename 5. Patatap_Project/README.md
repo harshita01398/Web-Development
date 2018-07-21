@@ -6,5 +6,5 @@ Built With
 HTML,CSS, PaperJS and Howler library
 
 
-Authors:
+Author:
 Harshita Aggarwal
