@@ -11,5 +11,5 @@ Built With
 HTML, CSS and Javascript
 
 
-Authors:
+Author:
 Harshita Aggarwal
