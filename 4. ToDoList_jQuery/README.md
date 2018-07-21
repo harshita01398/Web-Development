@@ -5,5 +5,5 @@ Built With
 HTML, CSS and jQuery
 
 
-Authors:
+Author:
 Harshita Aggarwal
